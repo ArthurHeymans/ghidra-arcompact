@@ -1,0 +1,10 @@
+/build/
+/dist/
+__pycache__/
+*.pyc
+*.sla
+*.jar
+*.zip
+
+*.orig
+*.rej

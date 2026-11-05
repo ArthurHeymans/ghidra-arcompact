@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/niooss-ledger/ghidra",
+  "revision": "d3fbf109ada6d051750e973779170c1758622530",
+  "path": "Ghidra/Processors/ARC",
+  "files": {
+    "Module.manifest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "build.gradle": "bb112aae11cdf481ae399717393f106413eb7c77d07140afee485de9faa7f038",
+    "data/languages/ARCompact.cspec": "710cedc7a7c0a4f2b9471269186bc32515a740dab24d9cbdaee7187bc75d7747",
+    "data/languages/ARCompact.dwarf": "0241e0a49cebeae66d7818442ce82524889dcbc790c0f0b33c5eddff721b1e5c",
+    "data/languages/ARCompact.ldefs": "ca4fa89d175ae85d3ed827a9fc4d0577aade983dd91d0506071222bee011aff4",
+    "data/languages/ARCompact.opinion": "7f6645190a5be92cfc65cadeeba81f0f3af73405815b9b97d2535e90efb8c037",
+    "data/languages/ARCompact.pspec": "e33a4e7c3d6d0c4d195ac11aaed51685e220668f0e82a3b82ed27ec5464c7f3a",
+    "data/languages/ARCompact.slaspec": "669bd4a79bd2b1aaff5de26776b64974847940510716007f4b5d4a83c97905be",
+    "src/main/java/ghidra/program/emulation/ARCompactPcodeUseropLibraryFactory.java": "0be6287be3ecb4cac6b7d33702f5835c55607505e3aec0d4f754a14d3e5ec5a4"
+  }
+}
